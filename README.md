@@ -1,2 +1,2 @@
 # NoteApp
-Build NoteApp using nodeJs,express
+NodeJs Project -Build NoteApp using nodeJs,express
